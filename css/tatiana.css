@@ -1,0 +1,13 @@
+h1{
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+body{
+    background-color:rgb(238, 249, 254);
+}
